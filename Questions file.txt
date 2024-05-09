@@ -1,0 +1,10 @@
+QUESTIONS
+
+1)Find the producer names along with the count of movies they have produced that won an award?
+2)Find the names of all movies along with the count of nominations they received and arrange in descending order?
+3)Find the names of all producers who have produced movies that were both nominated and won an award?
+4)Which category Cillian Murphy and Robert Downey Jr. won the award ?
+5)Retrieve the count of winners for each category from the Winners table?
+6)Find the winners of all categories  for a specific movie.
+7)List all movies released in a particular year along with their producers.
+8)Retrieve all nominees in the category "Best Picture" for a given year.
